@@ -1,0 +1,6 @@
+Gym Diary.exe
+build/
+dist/
+__pycache__/
+*.pyc
+*.json
